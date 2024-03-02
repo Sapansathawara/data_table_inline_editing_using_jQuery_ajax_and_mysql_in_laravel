@@ -7,11 +7,11 @@
       <div class="table-data__tool">
          <div class="table-data__tool-right">
             <button id="btnShowForm" class="au-btn au-btn-icon au-btn--green au-btn--small">
-            <i class="zmdi zmdi-plus"></i>add new</button>
+            <i class="zmdi"></i>add new</button>
          </div>
          <div class="table-data__tool-right">
             <button id="bulkDelete" class="au-btn au-btn-icon au-btn--red au-btn--small">
-            <i class="zmdi zmdi-plus"></i>Bulk Delete</button>
+            <i class="zmdi"></i>Bulk Delete</button>
          </div>
       </div>
       <!-- Add Form (initially hidden) -->
