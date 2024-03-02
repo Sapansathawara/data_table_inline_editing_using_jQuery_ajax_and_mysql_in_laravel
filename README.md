@@ -18,7 +18,7 @@ This Laravel project demonstrates the implementation of Data Table Inline Editin
 2. **Inline Edit**: Edit data directly within the table row using Ajax.
 3. **Delete Confirmation**: Confirm before deleting a particular row's data using Ajax.
 4. **Bulk Delete**: Delete selected rows with confirmation using Ajax.
-5. **Add New Form**: Hide the current table and show an add form using Ajax.
+5. **Add New Member**: Hide the current table and show an add form using Ajax.
 6. **Category Dropdown**: Populate categories from the category table.
 7. **Save Button**: Hide the current form and show the table on Save using Ajax.
 
@@ -77,6 +77,17 @@ Web Server (e.g., Apache, Nginx): A web server is required to serve the Laravel 
     ```
 
 2. Visit [http://localhost:8000](http://localhost:8000) in your web browser.
+
+## Screenshots
+
+Listing
+![Screenshot-2.png](https://i.postimg.cc/vZk65kZN/Screenshot-2.png)
+
+Add New Member
+![Screenshot-1.png](https://i.postimg.cc/25RV1mV0/Screenshot-1.png)
+
+Inline Edit
+![Screenshot-3.png](https://i.postimg.cc/Sxnbwtfq/Screenshot-3.png)
 
 ## Contributing
 
