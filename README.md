@@ -20,29 +20,28 @@ This Laravel project demonstrates the implementation of Data Table Inline Editin
 4. **Bulk Delete**: Delete selected rows with confirmation using Ajax.
 5. **Add New Form**: Hide the current table and show an add form using Ajax.
 6. **Category Dropdown**: Populate categories from the category table.
-7. **Hobbies in Different Tables**: Manage hobbies in separate tables.
-8. **Save Button**: Hide the current form and show the table on Save using Ajax.
+7. **Save Button**: Hide the current form and show the table on Save using Ajax.
 
 ## Requirements
 
-- PHP (>= 7.2)
-- Composer
-- Laravel (>= 8)
-- MySQL Database
-- Web Server (e.g., Apache, Nginx)
+PHP: Version 7.2 or higher is required for running the Laravel application.
+Composer: Composer is used for managing PHP dependencies in the project.
+Laravel: The project is built on Laravel framework version 8 or higher.
+MySQL Database: Laravel typically uses MySQL as the default database system.
+Web Server (e.g., Apache, Nginx): A web server is required to serve the Laravel application.
 
 ## Installation
 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/laravel-datatable-inline-editing.git
+    git clone https://github.com/Sapansathawara/data_table_inline_editing_using_jQuery_ajax_and_mysql_in_laravel.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd laravel-datatable-inline-editing
+    cd data_table_inline_editing_using_jQuery_ajax_and_mysql_in_laravel
     ```
 
 3. Install dependencies:
@@ -78,10 +77,6 @@ This Laravel project demonstrates the implementation of Data Table Inline Editin
     ```
 
 2. Visit [http://localhost:8000](http://localhost:8000) in your web browser.
-
-## Screenshots
-
-- Add relevant screenshots of your application.
 
 ## Contributing
 
